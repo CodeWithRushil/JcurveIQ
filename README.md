@@ -125,8 +125,5 @@ Mock implementation: [`src/features/projects/mockServer.js`](src/features/projec
 
 ---
 
-## 🧩 Next Steps (if continued)
-- Add `localStorage` persistence to the mock server.  
-- Write unit tests for the Redux slice & components.  
-- Improve error handling (retry/notification UI).  
-- Perform accessibility & performance audit.
+## 🤖 Note on AI Assistance
+This README and some minor parts of the assignment were assisted by **AI (ChatGPT)** for clarity and consistency.
