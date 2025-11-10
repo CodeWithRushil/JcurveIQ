@@ -36,12 +36,6 @@ npm run dev
 npm run build
 npm run preview
 ```
-
-### 4️⃣ Lint
-```bash
-npm run lint
-```
-
 ---
 
 ## 🧠 Tech Stack & Key Decisions
